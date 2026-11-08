@@ -1,0 +1,6 @@
+{
+  "appId": "in.behror.customerfinder",
+  "appName": "Behror Customer Finder",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
